@@ -10,8 +10,8 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Laptop", "Repair",45000, "2/5/16", "2/2/17");
 
 
-INSERT INTO users (id,name, age) VALUES (1,"Peter",22);
-INSERT INTO users (id,name, age) VALUES (2,"Christopher", 25);
+INSERT INTO users (id,name, age) VALUES (1,"Peter","22");
+INSERT INTO users (id,name, age) VALUES (2,"Christopher", "25");
 INSERT INTO users (id,name, age) VALUES (3,"David", 30);
 INSERT INTO users (id,name, age) VALUES (4,"Andy", 26);
 INSERT INTO users (id,name, age) VALUES (5,"Alexandro",27);
