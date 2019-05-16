@@ -1,9 +1,9 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Food", "Children",10000, "5/16/18","5/10/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Hospital", "Environment",5500, "10/5/18", "7/15/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Education", "West",20000, "1/31/18", "1/30/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Water", "Homeless",500, "1/1/17", "6/2/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Medicine", "Police Officer",3000, "3/4/18", "3/2/19");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Musical Instruments", "Students",1500, "1/5/18", "7/16/18");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Food", "Children","10000", "5/16/18","5/10/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Hospital", "Environment","5500", "10/5/18", "7/15/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Education", "West","20000", "1/31/18", "1/30/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Water", "Homeless","500", "1/1/17", "6/2/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Medicine", "Police Officer","3000", "3/4/18", "3/2/19");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Musical Instruments", "Students","1500", "1/5/18", "7/16/18");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Flying Boat", "Automobile",5550, "3/4/18", "3/2/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Teleporter", "Hardware", 12000, "5/16/18", "5/10/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Wig Making", "Cancer Survivors",4000, "2/5/16", "2/2/17");
