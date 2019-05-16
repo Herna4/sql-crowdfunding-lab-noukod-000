@@ -25,11 +25,11 @@ INSERT INTO users (id,name, age) VALUES (12,"Den", 19);
 INSERT INTO users (id,name, age) VALUES (13,"Cedric", 19);
 INSERT INTO users (id,name, age) VALUES (14,"Cyara", 20);
 INSERT INTO users (id,name, age) VALUES (15,"Joana", 49);
-INSERT INTO users (name, age) VALUES ("Ruth", 45);
-INSERT INTO users (name, age) VALUES ("Katiana", 19);
-INSERT INTO users (name, age) VALUES ("Handy", 34);
-INSERT INTO users (name, age) VALUES ("Thomas", 55);
-INSERT INTO users (name, age) VALUES ("Dave", 35);
+INSERT INTO users (id,name, age) VALUES (16,"Ruth", 45);
+INSERT INTO users (id,name, age) VALUES (17,"Katiana", 19);
+INSERT INTO users (id,name, age) VALUES (18,"Handy", 34);
+INSERT INTO users (id,name, age) VALUES (19,"Thomas", 55);
+INSERT INTO users (id,name, age) VALUES (20,"Dave", 35);
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES (100,1,2);
 INSERT INTO pledges (amount, user_id, project_id) VALUES (400,3,4);
